@@ -14,7 +14,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=APIs+REST+robustes+%26+scalables;Applications+Android+natives;Clean+Architecture+%7C+DDD;Asynchrone+%7C+Cache+%7C+Temps+r%C3%A9el)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-julesadonsi.com-00D9FF?style=for-the-badge&logoColor=white)](https://julesadonsi.com)
 [![GitHub followers](https://img.shields.io/github/followers/julesadonsi?style=for-the-badge&logo=github&color=181717)](https://github.com/julesadonsi)
 
 </div>
@@ -58,7 +57,6 @@ class JulesADONSI:
 <table>
 <tr>
 <td>🏥 Santé</td>
-<td>🛡️ Sécurité</td>
 <td>🕒 Pointage & Présence</td>
 </tr>
 <tr>
@@ -74,8 +72,6 @@ class JulesADONSI:
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats-eight-zeta-94.vercel.app/api/top-langs/?username=julesadonsi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=julesadonsi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
@@ -86,9 +82,8 @@ class JulesADONSI:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-julesadonsi.com-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://julesadonsi.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jules_ADONSI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON-LIEN)
-[![Email](https://img.shields.io/badge/Email-contact@julesadonsi.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TON-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jules_ADONSI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jules-adonsi)
+[![Email](https://img.shields.io/badge/adonsijules@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adonsijules@gmail.com)
 
 ---
 
