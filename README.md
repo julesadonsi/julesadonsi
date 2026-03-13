@@ -18,20 +18,6 @@
 
 </div>
 
----
-
-## 🧠 À propos
-
-```python
-class JulesADONSI:
-    role       = ["Backend Developer", "Android Engineer"]
-    location   = "Bénin 🇧🇯"
-    focus      = ["APIs REST", "Clean Architecture", "Scalabilité"]
-    strengths  = ["Tâches asynchrones", "Cache", "Temps réel", "Performances"]
-    passion    = "Créer des solutions digitales utiles pour l'Afrique 🌍"
-```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -50,23 +36,6 @@ class JulesADONSI:
 ### 🔧 Tools & DevOps
 ![Tools](https://skillicons.dev/icons?i=git,github,linux,nginx,docker)
 
----
-
-## 🚀 Domaines d'expertise
-
-<table>
-<tr>
-<td>🏥 Santé</td>
-<td>🕒 Pointage & Présence</td>
-</tr>
-<tr>
-<td>🚑 Transports médicaux</td>
-<td>🛒 E-commerce</td>
-<td>🏠 Immobilier & Hôtellerie</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Stats
 
